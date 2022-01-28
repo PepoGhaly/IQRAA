@@ -72,10 +72,10 @@ input:focus {
 }
 
 #check{
-    position:absolute;
-    left:22%;
-    top: 97%;
-    width:3%;
+    position:fixed;
+    right: 38.5%;
+    bottom:33.5%;
+    width:1.5%;
 }
 i{
     position:relative;
